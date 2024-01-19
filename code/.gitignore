@@ -1,0 +1,6 @@
+# ignore Data and settings
+Data/*
+megvenv/
+.pr_venv*
+.vscode/
+data/*
